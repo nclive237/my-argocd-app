@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Acuity-Inc/acuity-argocd.git
+    repoURL: https://github.com/nclive237/my-argocd-app.git
     targetRevision: HEAD
     path: dev
   destination: 
